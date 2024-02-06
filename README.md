@@ -5,7 +5,7 @@ In the first step a Data Frame has been created District-wise and then in the se
 Data Frames are created for Highest-Performaing and Lowest-Performing Schools by %Overall Passing rate.
 More Data Frames are created for "Maths Scores by Grade", "Reading Scores by Grade" , "Scores by School Spending","Scores by School Size" and "Scores by School Type"respectively.
 
-TWO CONCLUSIONS/COMPARISONS BASED ON THE CALCULATIONS:
+# TWO CONCLUSIONS/COMPARISONS BASED ON THE CALCULATIONS:
 
 It is observed after doing the calculations that the schools that are smaller in size meaning the schools with less number of students (<2000) have higher overall passing rate as compared to the bigger size schools with the Total number of students >2000 , so the school size should be kept small for better results.
 
